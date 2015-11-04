@@ -21,12 +21,17 @@ It's locked. What do I do?
 ###Website Features
 
 -Amazing Comic on the side to keep you entertained
+
 -Enter tasks (max of 19 tasks).
+
 -Tasks are tickable and completion is represented on the percentage bar.
+
 -You may only unlock the fridge when it is 100% complete. It can be already complete but you haven't clicked unlock.
+
 -These tasks show up on the screen unless you refresh.
+
 -Website sends a value, 0 or 1, to Firebase. The box reads this value and updates itself accordingly.
-  1 refers to open, 0 is closed.
+(1 refers to open, 0 is closed.)
 
 ---
 
